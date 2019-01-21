@@ -1,4 +1,4 @@
-FROM rails:5.0.1
+FROM rails:5.2.2
 
 RUN mkdir /app
 WORKDIR /app
